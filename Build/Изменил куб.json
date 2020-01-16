@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "Изменил куб.data.unityweb",
+"asmCodeUrl": "Изменил куб.asm.code.unityweb",
+"asmMemoryUrl": "Изменил куб.asm.memory.unityweb",
+"asmFrameworkUrl": "Изменил куб.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
